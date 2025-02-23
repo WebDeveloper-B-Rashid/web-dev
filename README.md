@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Freedom IT Institute](https://freedomitinstitutions.com/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript, bootstrapt,JQueryy**
+- 💬 Ask me about **HTML, CSS, JavaScript, bootstrapt, JQuery**
 
 - 📫 How to reach me **How to**
 
